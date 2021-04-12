@@ -1,0 +1,4 @@
+#sender address here
+#sender password here
+#receiver 1
+#receiver 2
